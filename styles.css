@@ -1,1 +1,28 @@
+body {
 
+}
+h1 {
+    text-align: center;
+}
+input {
+    position: absolute;
+    right: 150px;
+    left: 100px;
+    cursor: pointer;
+}
+.results {
+
+}
+table, td {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    color: aliceblue;
+}
+
+table {
+    border-spacing: 10px;
+    border-radius: 8px;
+    opacity: 0.9;
+}
