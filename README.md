@@ -1,3 +1,3 @@
 # Web-sovellusten kehittäminen JavaScriptillä TO00BL10-3015 / Projekti 2A
 Tämä repository on suoritettu osana yllämainittua kurssia. Verkkosivulle on toteutettu JavaScript Ajaxia käyttämällä 3 erilaista button-tyyppistä inputtia, joista jokainen lataa tietoa Finnkinon API:sta. Ensimmäinen lataa verkkosivuille 10 ensimmäistä elokuvaa, toinen napeista lataa sivulle niiden kestoajat ja viimeinen nappi lataa sivulle niiden genret eli tyylit. Kaikki näistä olisi voinut saada samallekkin napille, mutta halusin muistella bootstrapi käyttöä ja päätin toteuttaa tämän kolmella erillisellä napilla.
-<br> Projektissa on käytetty apuna WS07 materiaaleja, sekä aikaisemmalta kurssilta näytettyä esimerkkityötä.
+<br><br> Projektissa on käytetty apuna WS07 materiaaleja, sekä aikaisemmalta kurssilta näytettyä esimerkkityötä.
